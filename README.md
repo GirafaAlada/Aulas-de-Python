@@ -1,4 +1,4 @@
 # Aulas-de-Python
 
-Aqui estão varios projetos aleatórios feitos pra aprender a linguagem python.
+Aqui tem um prjeto pra aprender a usar o Pygame.
 Nada muito complicado, só para testar mesmo.
